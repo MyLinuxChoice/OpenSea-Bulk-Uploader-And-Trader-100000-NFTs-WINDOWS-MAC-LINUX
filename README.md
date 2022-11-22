@@ -16,7 +16,7 @@ _A Selenium Python bot to automatically and bulky upload and sell your NFTs on O
 * Sign up on [MetaMask](https://metamask.io/).
 
 
-## What does this bot do?
+## What does this bot do? 
 
 This script allows you to upload and sell **as many NFTs as you want to OpenSea**, all **automatically** and **quickly** (about 2.5 NFTs per minute). **All metadata are integrated**, and the **Ethereum** and **Polygon** Blockchains are supported.  
 
