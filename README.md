@@ -1,6 +1,6 @@
 <h2 align="center"> OpenSea Bulk Uploader And Trader 100000 NFTs (MAC WINDOWS ANDROID LINUX) </h2>
 <h3 align="center"> Automatically and massively upload and sell your non-fungible tokens on OpenSea using Python Selenium </h3>
-
+ 
 
 ![Sniper](http://startupbeat.hkej.com/wp-content/uploads/2022/01/0106_P08-1024x576.jpg)  
  
